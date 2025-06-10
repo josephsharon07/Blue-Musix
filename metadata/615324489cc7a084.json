@@ -1,0 +1,19 @@
+{
+  "id": "615324489cc7a084",
+  "title": "Ini Oru Vidhi Seivom",
+  "artist": "Leon James, Sathyaprakash, Diwakar",
+  "album": "L.K.G. ",
+  "album_artist": "Leon James",
+  "album_id": "9a0963cd751ba72c",
+  "track_number": 4,
+  "disc_number": 1,
+  "year": 2019,
+  "genre": "Musiques du monde, Musique indienne",
+  "duration": 232.5,
+  "source_quality": "cd",
+  "available_qualities": [
+    "cd",
+    "mp3"
+  ],
+  "file_hash": "20c4028d4defb0ab1d6e52e0b3caf714d575bb0ff625d304e2c553a8154420e2"
+}
